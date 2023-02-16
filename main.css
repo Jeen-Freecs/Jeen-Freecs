@@ -232,7 +232,7 @@
   .banner {
     background-image: url(Home-Four-Banner-Background-Image.png);
     background-size: cover;
-    height: 30%;
+    height: 100%;
     width: 100%;
     padding: 5%;
     display: flex;
