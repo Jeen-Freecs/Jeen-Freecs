@@ -244,7 +244,7 @@
 
   header {
     color: #fff;
-    font-size: 1em;
+    font-size: 3em;
     height: 10%;
     display: flex;
     align-items: center;
@@ -340,7 +340,6 @@
     max-width: 100%;
     width: 200px;
     height: 120px;
-    
     float: left;
     padding: 10px 20px;
     border-radius: 25px;
@@ -358,6 +357,10 @@
     padding: 10px 20px;
     border-radius: 25px;
 
+  }
+  #submission img{
+    max-width: 100%;
+    height: auto;
   }
   #grading {
     background-color: rgb(78, 3, 216);
