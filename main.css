@@ -339,7 +339,7 @@
     border-radius: 25px;
   }
   #task img{
-    max_width: 100%;
+    max-width: 100%;
     width: 200px;
     height: 120px;
     
