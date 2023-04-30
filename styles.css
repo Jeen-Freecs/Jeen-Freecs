@@ -482,10 +482,7 @@ footer a {
   .main-message p {
     font-size: 1.3rem;
   }
-  .btn {
-    border-radius: 0.9rem;
-    padding: 0.9rem 0.9rem;
-  }
+  
   .about-text-box h2 {
     font-size: 3rem;
     margin-bottom: 20px;
